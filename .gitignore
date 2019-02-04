@@ -1,0 +1,5 @@
+# ignore virtual env
+venv
+
+# ignore My PyCharm Setting
+.idea
